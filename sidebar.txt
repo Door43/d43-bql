@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bql:home|Door43 (bql)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bql|d43-bql repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bql/archive/master.zip|d43-bql.zip]]
+
+**Recent Changes**
+{{changes>ns = bql}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bql|Ethnologue data]]
+
